@@ -1,4 +1,4 @@
-# Intelligent-Document-Search-Using-NLP-and-Dense-Embeddings
+# Intelligent Document Search Using NLP and Dense Embeddings
 Hybrid search engine using BM25 keyword matching and semantic similarity with Sentence Transformers and FAISS.
 
 ## 📌 Project Overview
@@ -125,8 +125,4 @@ http://localhost:8501
 - Larger document collections.
 - Search performance evaluation using Precision@K and Recall@K.
 - Improved ranking and filtering techniques.
-
-## 👩‍💻 Author
-
-**Reethika Kalvacherla**
 
