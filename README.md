@@ -43,7 +43,6 @@ hybrid_semantic_search/
 ├── app.py
 ├── requirements.txt
 ├── README.md
-├── .gitignore
 └── .venv/
 ```
 
