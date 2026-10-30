@@ -37,14 +37,14 @@ The application provides an interactive interface using Streamlit, allowing user
 
 ## 📂 Project Structure
 
-
+text
 hybrid_semantic_search/
 │
 ├── app.py
 ├── requirements.txt
 ├── README.md
+├── .gitignore
 └── .venv/
-
 
 Note: The `.venv` folder should not be uploaded to GitHub.
 
