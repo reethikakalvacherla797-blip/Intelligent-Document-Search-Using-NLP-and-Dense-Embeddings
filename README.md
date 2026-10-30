@@ -37,7 +37,7 @@ The application provides an interactive interface using Streamlit, allowing user
 
 ## 📂 Project Structure
 
-text
+```text
 hybrid_semantic_search/
 │
 ├── app.py
@@ -45,6 +45,7 @@ hybrid_semantic_search/
 ├── README.md
 ├── .gitignore
 └── .venv/
+```
 
 Note: The `.venv` folder should not be uploaded to GitHub.
 
@@ -125,4 +126,3 @@ http://localhost:8501
 - Larger document collections.
 - Search performance evaluation using Precision@K and Recall@K.
 - Improved ranking and filtering techniques.
-
